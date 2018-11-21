@@ -1,3 +1,3 @@
 <?php
-    echo "showtime";
+    echo date ( "Y-m-d H:i:s" );
 ?>
